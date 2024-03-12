@@ -7,6 +7,6 @@ I was inspired by socket.io - a library in the other programming landguage (Java
  - Chatting with global or someone (on general chat box), notice when someone online/offline
 # Demo
  - Show online users list
-![Screenshot](/demo-image/1.PNG)
+![Screenshot](/Socket-MutilThread-Client-main/demo-image/1.PNG)
  - Chatting with global or someone (on general chat box), notice when someone online/offline
-![Screenshot](/demo-image/2.PNG)
+![Screenshot](Socket-MutilThread-Client-main/demo-image/2.PNG)
