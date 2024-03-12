@@ -9,4 +9,4 @@ I was inspired by socket.io - a library in the other programming landguage (Java
  - Show online users list
 ![Screenshot](/Socket-MutilThread-Client-main/demo-image/1.PNG)
  - Chatting with global or someone (on general chat box), notice when someone online/offline
-![Screenshot](Socket-MutilThread-Client-main/demo-image/2.PNG)
+![Screenshot](/Socket-MutilThread-Client-main/demo-image/2.PNG)
